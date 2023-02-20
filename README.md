@@ -1,11 +1,11 @@
-<!-- Assignment 1 -->
+## Assignment 1
 1. Arithmetic Operators: +, -, /, *, %, **, ++, --
 2. Assignment Operators: =
 3. Comparison Operators: >, <, <=, >=, ==, ===, !==, !=
 4. Logical Operators: ||, &&, !, ??
 5. Bitwise Operators: &, |, ^, ~, <<, >>, >>>
 
-<!--Assignment 2-->
+## Assignment 2
 1. Arithmetic Operators:
     - let a = 5; b = 10;
         a + b = 15;
@@ -51,7 +51,7 @@
 
         // Expected output: 7
 
-<!-- Assignment 4 -->
+## Assignment 4
 for (let i = 1; i < 20; i += 7) {
     console.log(i)
 }
